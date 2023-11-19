@@ -162,3 +162,7 @@ cython_debug/
 backup/
 .backup/
 metadata.json
+data/
+cache/
+csv/
+maps/
